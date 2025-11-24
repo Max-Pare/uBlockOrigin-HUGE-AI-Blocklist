@@ -324,9 +324,6 @@ If you don't know how to do that or don't want to, you can instead create an iss
 
 - [ ] Startpage, Ecosia, Brave support (for uBlock Origin)
 
-## Happy Pride Month!
-LGBTQ+ Rights! 🏳️‍🌈🏳️‍⚧️
-
 ## Special Thanks
 
 Special thanks to: 
